@@ -47,7 +47,6 @@
 <ownerDesignName>Test_1</ownerDesignName>
 <isSurrogateKey>false</isSurrogateKey>
 <indexColumnUsage>
-<colUsage columnID="C0818A4B-72C0-AE3C-2E06-69DA4A19F23F"/>
 <colUsage columnID="B2151E50-8D4E-B426-F329-E53F6F26FAE2"/>
 </indexColumnUsage>
 </ind_PK_UK>
