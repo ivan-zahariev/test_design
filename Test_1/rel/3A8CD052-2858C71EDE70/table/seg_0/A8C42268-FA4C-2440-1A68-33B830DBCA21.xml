@@ -11,13 +11,44 @@
 <createdBy>izahariev</createdBy>
 <createdTime>2019-03-14 11:22:07 UTC</createdTime>
 <ownerDesignName>Test_1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Column_2" id="C0818A4B-72C0-AE3C-2E06-69DA4A19F23F">
+<createdBy>izahariev</createdBy>
+<createdTime>2019-03-14 11:42:10 UTC</createdTime>
+<ownerDesignName>Test_1</ownerDesignName>
 <nullsAllowed>true</nullsAllowed>
 <useDomainConstraints>false</useDomainConstraints>
 <use>1</use>
-<logicalDatatype>LOGDT006</logicalDatatype>
-<dataTypeSize>1</dataTypeSize>
-<ownDataTypeParameters>1,,</ownDataTypeParameters>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
 <autoIncrementCycle>false</autoIncrementCycle>
 </Column>
 </columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="28521EA4-E8E0-A5CD-7548-B8978A52A3AB" name="PK">
+<createdBy>izahariev</createdBy>
+<createdTime>2019-03-20 13:38:29 UTC</createdTime>
+<ownerDesignName>Test_1</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="B2151E50-8D4E-B426-F329-E53F6F26FAE2"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="11E1CC2A-0D21-DBAD-20F7-C4731910891C" name="TABLE_1__IDX">
+<createdBy>izahariev</createdBy>
+<createdTime>2019-03-20 13:38:37 UTC</createdTime>
+<ownerDesignName>Test_1</ownerDesignName>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="C0818A4B-72C0-AE3C-2E06-69DA4A19F23F"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
 </Table>
