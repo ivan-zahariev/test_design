@@ -1,0 +1,6 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<ClusterOraclev10g class="oracle.dbtools.crest.model.design.storage.oracle.v10g.ClusterOraclev10g" name="Cluster1" directorySegmentName="seg_0" id="8D0F5C3E-D17E-B85B-A6A3-69F5A8CD49F9">
+<createdBy>izahariev</createdBy>
+<createdTime>2019-03-20 14:23:50 UTC</createdTime>
+<ownerDesignName>Test_1</ownerDesignName>
+</ClusterOraclev10g>
