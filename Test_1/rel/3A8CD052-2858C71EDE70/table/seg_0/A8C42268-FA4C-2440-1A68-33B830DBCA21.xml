@@ -39,6 +39,15 @@
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 <autoIncrementCycle>false</autoIncrementCycle>
 </Column>
+<Column name="Column_4" id="034DA002-340C-D562-AD7D-593DF2B755DB">
+<createdBy>izahariev</createdBy>
+<createdTime>2019-03-21 14:31:42 UTC</createdTime>
+<ownerDesignName>Test_1</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
 </columns>
 <indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
 <ind_PK_UK id="28521EA4-E8E0-A5CD-7548-B8978A52A3AB" name="PK">
